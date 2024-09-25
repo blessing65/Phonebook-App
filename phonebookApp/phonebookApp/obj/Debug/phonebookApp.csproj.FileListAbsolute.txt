@@ -1,0 +1,16 @@
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\bin\Debug\phonebookApp.exe.config
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\bin\Debug\phonebookApp.exe
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\bin\Debug\phonebookApp.pdb
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.csproj.AssemblyReference.cache
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.csproj.CoreCompileInputs.cache
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.exe
+C:\Users\ENGR EZEAKU\Desktop\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.pdb
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\bin\Debug\phonebookApp.exe.config
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\bin\Debug\phonebookApp.exe
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\bin\Debug\phonebookApp.pdb
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.csproj.AssemblyReference.cache
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.csproj.CoreCompileInputs.cache
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.exe
+C:\Users\ENGR EZEAKU\Videos\Blessing\cSharpProjects\phonebookApp\phonebookApp\obj\Debug\phonebookApp.pdb
